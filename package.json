@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/daviswk90/Monthly_Expense_Tracker/issues"
   },
-  "homepage": "https://github.com/daviswk90/Monthly_Expense_Tracker#readme"
+  "homepage": "https://github.com/daviswk90/Monthly_Expense_Tracker#readme",
+  "dependencies": {
+    "playwright": "^1.56.1"
+  }
 }
